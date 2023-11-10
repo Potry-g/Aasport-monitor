@@ -26,9 +26,7 @@ class Product:
 
         if not self.stock and self.response != None:
 
-            url = "https://discord.com/api/webhooks/"\
-                "804377555682852885/rru9Uhqm3PmRhILtyYQDkl_F"\
-                "5IUBRPB3zhYlCOkBryKJPg-3E6xdCZvtuTZz1jTZagvQ"
+            url = "" #Webhook discord
 
             emb = {
                 "title":self.name,
@@ -172,9 +170,7 @@ class Product:
     def send_hook(self):
 
         hoooks ={ 
-            "url": "https://discord.com/api/webhooks/"\
-            "804377555682852885/rru9Uhqm3PmRhILtyYQDkl_F"\
-            "5IUBRPB3zhYlCOkBryKJPg-3E6xdCZvtuTZz1jTZagvQ",
+            "url": "" #Webhook discord,
             "username":"aasport monitor"
         }
 
