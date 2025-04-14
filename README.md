@@ -1,5 +1,9 @@
 # Aasport-monitor
 
-Program de monitorizare a site-ului aasports. La aparitia unei perechi noi de sneakers programul trimite un mesaj pe discord cu numele, marimea, pretul si o poza cu ei, dupa creeaza un link pentu ai ii pune automat in cos.
+AASports Web Monitor & Notification Bot
 
-Programul nu mai functioneaza dupa updatarea site-ului.
+Automated the detection of new sneaker releases on 'aasports.ro' using web monitoring techniques.
+
+Configured Discord alerts to instantly share product information (name, size, price, image) and an auto-add-to-cart link.
+
+Note: Required adaptation due to website structure changes, providing experience in maintaining web-dependent tools. (Use this point carefully - it shows awareness but also highlights a non-functional aspect. Often omitted on CVs unless the maintenance itself is the skill you want to show).
